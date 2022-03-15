@@ -1,0 +1,1 @@
+"./digital_clock.obj" "./keyboard.obj" "./setclock.obj" "./oled/oled.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
